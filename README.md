@@ -46,6 +46,7 @@ and more!
 
 * Forecasting Stock Prices (DataCamp walk through): https://www.datacamp.com/tutorial/lstm-python-stock-market
 
+---
 
 # Data Science
 ## Day 1-5: Introduction to Data Science
