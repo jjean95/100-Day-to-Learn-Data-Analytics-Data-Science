@@ -25,15 +25,27 @@ use Pivot Tables
 create data visualizations and dashboards
 and more!
 
-DataCamp: Data Analysis in Excel course
+* DataCamp: Data Analysis in Excel course
+* freeCodeCamp: https://youtu.be/Vl0H-qTclOg
 
 ## Day 21-35: Power BI
 
+* MyOnlineTrainingHub: https://youtu.be/Z2t7l8b1uWU
+
 ## Day 36-50: Tableau
+
+* DataCamp courses: Intro to Tableau, Analyzing Data in Tableau
+* Tableau resume: https://www.tableau.com/blog/how-create-interactive-resume-tableau
+* DataCamp: https://www.datacamp.com/tutorial/cluster-analysis-in-tableau
 
 ## Day 51-72: SQL
 
+* DataCamp courses: Intro to SQL, Joining Data in SQL, Intermediate SQL, Relational Databases in SQL.
+
 ## Day 73-100: Python
+
+* Forecasting Stock Prices (DataCamp walk through): https://www.datacamp.com/tutorial/lstm-python-stock-market
+
 
 # Data Science
 ## Day 1-5: Introduction to Data Science
