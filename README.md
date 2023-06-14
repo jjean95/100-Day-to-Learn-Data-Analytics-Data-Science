@@ -1,6 +1,7 @@
 # 100-Day-to-Learn-Data-Analytics-Data-Science
 Learning Data Analytics/Data Science in 100 Days
 
+# Data Analytics
 Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analytics-100-days-brittany-city/
 
 ## Day 1-5: Introduction to Data & Statistics
@@ -33,3 +34,5 @@ DataCamp: Data Analysis in Excel course
 ## Day 51-72: SQL
 
 ## Day 73-100: Python
+
+# Data Science
