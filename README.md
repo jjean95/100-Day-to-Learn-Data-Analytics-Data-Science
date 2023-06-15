@@ -29,6 +29,8 @@ Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analyti
 
 * Forecasting Stock Prices (DataCamp walk through): https://www.datacamp.com/tutorial/lstm-python-stock-market
 
+---
+
 ## Day 1 - 15 June 2023
 ### Excel
 - DataCamp: Data Analysis with Excel
