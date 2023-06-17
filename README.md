@@ -36,7 +36,10 @@ Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analyti
 - DataCamp: Data Analysis with Excel
 * Exploring Data
 
-
+## Day 2 - 17 June 2023
+### Excel
+- DataCamp: Data Analysis with Excel
+* Preparing Data
 
 ---
 
