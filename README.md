@@ -46,10 +46,10 @@ Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analyti
 - DataCamp: Data Analysis with Excel
 * Analyzing Data
 
-## Day 4 - 
-### Excel
-- freecodecamp: Excel (https://www.youtube.com/watch?v=Vl0H-qTclOg&t=254s)
-* Payroll
+## Day 4 - 20 June 2023
+### Machine Learning
+- DataCamp: MLOps (Machine Learning Operation) Concepts
+* Introduction
 ---
 
 # Data Science
