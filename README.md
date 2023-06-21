@@ -1,33 +1,8 @@
-# 100-Day-to-Learn-Data-Analytics-Data-Science
+# 100-Days-to-Learn-Data-Analytics-Data-Science
 Learning Data Analytics/Data Science in 100 Days
 
 # Data Analytics
 Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analytics-100-days-brittany-city/
-
-## Day 1-5: Introduction to Data & Statistics
-
-## Day 6-20: Microsoft Excel
-
-* DataCamp: Data Analysis in Excel course
-* freeCodeCamp: https://youtu.be/Vl0H-qTclOg
-
-## Day 21-35: Power BI
-
-* MyOnlineTrainingHub: https://youtu.be/Z2t7l8b1uWU
-
-## Day 36-50: Tableau
-
-* DataCamp courses: Intro to Tableau, Analyzing Data in Tableau
-* Tableau resume: https://www.tableau.com/blog/how-create-interactive-resume-tableau
-* DataCamp: https://www.datacamp.com/tutorial/cluster-analysis-in-tableau
-
-## Day 51-72: SQL
-
-* DataCamp courses: Intro to SQL, Joining Data in SQL, Intermediate SQL, Relational Databases in SQL.
-
-## Day 73-100: Python
-
-* Forecasting Stock Prices (DataCamp walk through): https://www.datacamp.com/tutorial/lstm-python-stock-market
 
 ---
 
@@ -50,6 +25,11 @@ Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analyti
 ### Machine Learning
 - DataCamp: MLOps (Machine Learning Operation) Concepts
 * Introduction
+
+## Day 5 - 21 June 2023
+### Machine Learning
+- DataCamp: MLOps (Machine Learning Operation) Concepts
+* Design and Development
 ---
 
 # Data Science
