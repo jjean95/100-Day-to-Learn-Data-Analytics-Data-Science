@@ -2,8 +2,9 @@
 Learning Data Analytics/Data Science in 100 Days
 
 # Data Analytics
-Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analytics-100-days-brittany-city/
-
+Schedule by: 
+* https://www.linkedin.com/pulse/complete-guide-learning-data-analytics-100-days-brittany-city/
+* ChatGPT
 ---
 
 ## Day 1 - 15 June 2023
