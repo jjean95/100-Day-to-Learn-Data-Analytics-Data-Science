@@ -37,6 +37,51 @@ Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analyti
 * Deploying Machine Learning into Production
 ---
 
+## 100 Days of Data Analytics & Data Science by ChatGPT
+Certainly! Here's an adjusted timeline for a 100-day study plan focused on data analytics and data science, along with suggested resources for each phase:
+
+Day 1-5: Introduction to Data Analytics
+- Online Course: "Introduction to Data Analytics" on Coursera by the University of Texas at Austin.
+- Book: "Data Analytics Made Accessible" by Anil Maheshwari.
+
+Day 6-10: Excel and SQL for Data Analytics
+- Online Course: "Data Analysis and Visualization with Excel" on Coursera by PwC.
+- Online Course: "SQL for Data Science" on edX by UC Davis.
+
+Day 11-20: Data Manipulation and Visualization
+- Online Course: "Data Manipulation and Analysis" on Coursera by Johns Hopkins University.
+- Online Platform: DataCamp's "Data Manipulation with Python" course.
+
+Day 21-35: Statistical Analysis
+- Online Course: "Statistics with R" on Coursera by Duke University.
+- Book: "Statistical Inference" by Casella and Berger.
+
+Day 36-45: Introduction to Machine Learning
+- Online Course: "Machine Learning" on Coursera by Stanford University.
+- Book: "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili.
+
+Day 46-55: Data Visualization and Storytelling
+- Online Course: "Data Visualization" on Udacity.
+- Online Platform: DataCamp's "Data Visualization with Python" course.
+
+Day 56-70: Advanced Topics in Data Science
+- Online Course: "Applied Data Science" on Coursera by the University of Michigan.
+- Online Platform: DataCamp's "Feature Engineering for Machine Learning" course.
+
+Day 71-85: Big Data and Cloud Computing
+- Online Course: "Big Data Specialization" on Coursera by the University of California, San Diego.
+- Online Platform: DataCamp's "Big Data Fundamentals with PySpark" course.
+
+Day 86-95: Natural Language Processing (NLP)
+- Online Course: "Natural Language Processing" on Coursera by deeplearning.ai.
+- Online Platform: DataCamp's "Natural Language Processing Fundamentals in Python" course.
+
+Day 96-100: Review and Capstone Project
+- Kaggle: Participate in data science competitions or work on a personal capstone project.
+- GitHub: Showcase your project and create a portfolio to share your work.
+
+---
+
 # Data Science
 ## Day 1-5: Introduction to Data Science
 
