@@ -30,6 +30,11 @@ Schedule by: https://www.linkedin.com/pulse/complete-guide-learning-data-analyti
 ### Machine Learning
 - DataCamp: MLOps (Machine Learning Operation) Concepts
 * Design and Development
+
+## Day 6 - 22 June 2023
+### Machine Learning
+- DataCamp: MLOps (Machine Learning Operation) Concepts
+* Deploying Machine Learning into Production
 ---
 
 # Data Science
